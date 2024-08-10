@@ -25,9 +25,9 @@
   <picture>
     <source
       height="160px"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=andreeluis&theme=github_dark_dimmed&hide_title=true&hide_border=false&exclude_days=Sat,Sun"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=andreeluis&theme=github_dark_dimmed&hide_title=true&hide_border=false&exclude_days=Sun%2CSat"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="160px" style="width:100%; display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=andreeluis&theme=default&hide_title=true&hide_border=false&exclude_days=Sun,Sat" />
+    <img height="160px" style="width:100%; display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=andreeluis&theme=default&hide_title=true&hide_border=false&exclude_days=Sun%2CSat" />
   </picture>
 </p>
